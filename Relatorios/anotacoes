@@ -1,0 +1,19 @@
+# PAGINA DE LOGIN FACEBOOK
+
+1. TITULO LATERAL DO LADO ESQUERDO.
+
+O titulo é formado por um elemento <img> e logo abaixo uma tag <h2> com fonte (SFProDisplay-Bold, Helvetica, Arial, sans-serif).
+A fonte tem um line-height(28px) e font-size de tamanho "24px".
+
+2. ELEMENTOS E FORMAÇÃO DO FORMULARIO DE LOGIN.
+
+O formulario está localizado do lado direto da tela centralizado verticalmente e horizontalmente.
+Temos os campos EMAIL OU TELEFONE como forma de login dentro de uma input.
+Temos um campo para inserir senha logo abaixo.
+Botão azul com uma cor de Hexadecimal #1877f2. E bordas arredondadas.
+Abaixo temos um link nomeado de "Esqueceu a senha?" azul.
+Temos um espaçamento e uma tag <hr> para divisoria.
+Logo mais abaixo temos outro botão verde de Hexadecimal #42b72a.
+Toda a form tem bordas radius.
+Temos logo abaixo outro link com o nome "Criar uma Página para uma celebridade, banda ou empresa." localizado fora da form. cor usada #1c1e21
+Por ultimo, temos outra seção que é a footer com idiomas e outros links.
